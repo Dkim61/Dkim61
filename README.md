@@ -1,6 +1,6 @@
 # :bow:  Hey! I'm David! :bow: 
 
-Experienced Full Stack Software Engineer brought up on Javascript and Ruby on Rails! 
+Experienced Full Stack Software Engineer who specializes in Javascript, and Python! 
 
 
   
