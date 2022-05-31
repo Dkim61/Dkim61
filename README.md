@@ -26,9 +26,7 @@ Experienced Full Stack Software Engineer brought up on Javascript and Ruby on Ra
   <img src="https://icongr.am/devicon/ruby-plain.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" alt="express" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/amazonwebservices-plain-wordmark.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
 </p>
 
 <br />
