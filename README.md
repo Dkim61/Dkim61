@@ -1,7 +1,6 @@
 # :bow:  Hey! I'm David! :bow: 
 
-Experienced Full Stack Software Engineer who specializes in Javascript, and Python! 
-
+Experienced Full Stack Software Engineer who specializes in React, Vue and Django! Obtained a background and degree in economics from Binghamton University with strong communication and collaborative skills. 
 
   
 ## Get in Touch :mailbox:
