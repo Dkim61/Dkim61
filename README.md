@@ -33,7 +33,3 @@ Experienced Full Stack Software Engineer brought up on Javascript and Ruby on Ra
 
 <br />
 &emsp;
-
-## Make Your Github Look Like Mine :exclamation:
-
-Check out my guide [here](https://benthedunn.medium.com/github-revamp-guide-8f48a890e61e) 
