@@ -16,9 +16,9 @@ Experienced Full Stack Software Engineer who specializes in React, Vue and Djang
 ## Skills :computer:
 
 <p align="left">
-  <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
-  <img src="https://i.imgur.com/rTNkWSQ.png" alt="react" align="left" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="js" align="left" width="40" height="40"/>
   <img src="https://i.imgur.com/H8DuLja.png" alt="ts" align="left" width="40" height="40"/>
+  <img src="https://img.icons8.com/plasticine/100/undefined/react.png" alt="react" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/undefined/vue-js.png" alt="vue" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/undefined/python--v1.png" alt="python" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/undefined/django.png" alt="django" align="left" width="40" height="40"/>
