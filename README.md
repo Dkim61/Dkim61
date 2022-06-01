@@ -22,12 +22,11 @@ Experienced Full Stack Software Engineer who specializes in React, Vue and Djang
   <img src="https://img.icons8.com/color/48/undefined/vue-js.png" alt="vue" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/undefined/python--v1.png" alt="python" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/undefined/django.png" alt="django" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/ruby-plain.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/css3-plain.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/undefined/ruby-programming-language.png" alt="ruby" align="left" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/undefined/nodejs.png" alt="node" align="left" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/undefined/postgreesql.png" alt="postgres" align="left" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/undefined/html.png" alt="html5" align="left" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/undefined/css.png" alt="css3" align="left" width="40" height="40"/>
 </p>
 
 <br />
