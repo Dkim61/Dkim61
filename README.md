@@ -25,8 +25,8 @@ Experienced Full Stack Software Engineer who specializes in React, Vue and Djang
   <img src="https://img.icons8.com/color/48/undefined/ruby-programming-language.png" alt="ruby" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/undefined/nodejs.png" alt="node" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/undefined/postgreesql.png" alt="postgres" align="left" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/undefined/html.png" alt="html5" align="left" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/undefined/css.png" alt="css3" align="left" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/undefined/external-html-coding-and-development-flat-flat-juicy-fish.png" alt="html5" align="left" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/undefined/external-css-coding-and-development-flat-flat-juicy-fish-2.png" alt="css3" align="left" width="40" height="40"/>
 </p>
 
 <br />
