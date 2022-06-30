@@ -38,7 +38,7 @@ AWS Certification
 ## Currently Exploring 🔭:
 
 <p align="left">
-    <img src="https://img.icons8.com/windows/32/000000/amazon-web-services.png" alt="aws" align="left" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" align="left" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/undefined/vue-js.png" alt="vue" align="left" width="40" height="40"/>
 </p>
 <br />
