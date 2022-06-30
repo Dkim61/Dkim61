@@ -32,6 +32,14 @@ AWS Certification
 </p>
 
 <br />
-## Currently Exploring
+&emsp;
 
+ &emsp;
+ 
+## Currently Exploring 🔭:
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="js" align="left" width="40" height="40"/>
+</p>
+<br />
 &emsp;
