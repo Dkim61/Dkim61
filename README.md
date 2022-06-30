@@ -21,7 +21,6 @@ AWS Certification
   <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="js" align="left" width="40" height="40"/>
   <img src="https://i.imgur.com/H8DuLja.png" alt="ts" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/plasticine/100/undefined/react.png" alt="react" align="left" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/undefined/vue-js.png" alt="vue" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/undefined/python--v1.png" alt="python" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/undefined/django.png" alt="django" align="left" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/undefined/ruby-programming-language.png" alt="ruby" align="left" width="40" height="40"/>
@@ -39,7 +38,8 @@ AWS Certification
 ## Currently Exploring 🔭:
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="js" align="left" width="40" height="40"/>
+    <img src="https://img.icons8.com/windows/32/000000/amazon-web-services.png" alt="aws" align="left" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/undefined/vue-js.png" alt="vue" align="left" width="40" height="40"/>
 </p>
 <br />
 &emsp;
