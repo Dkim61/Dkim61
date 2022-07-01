@@ -30,7 +30,6 @@ Experienced Full Stack Software Engineer who specializes in JavaScript and Pytho
 <br />
 &emsp;
 
- &emsp;
  
 ## Currently Exploring 🔭:
 
