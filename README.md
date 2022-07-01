@@ -2,13 +2,13 @@
 
 Experienced Full Stack Software Engineer who specializes in JavaScript and Python! Obtained a background and degree in economics from Binghamton University with strong communication and collaborative skills. 
   
+  
 ## Get in Touch :mailbox:
 
 <p>
   <a href="https://www.linkedin.com/in/davidkim-4696/" target="blank"><img align="left" src="https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png" height="30" width="30" /></a>
   <a href="mailto:djk4696@gmail.com" target="blank"><img align="left" src="https://img.icons8.com/fluency/48/undefined/gmail-new.png"  height="30" width="30" /></a>
  </p>
- 
  <br />
  &emsp;
  
