@@ -1,7 +1,6 @@
 # :bow:  Hey! I'm David! :bow: 
 
-Experienced Full Stack Software Engineer who specializes in JavaScript and Python! Obtained a background and degree in economics from Binghamton University with strong communication and collaborative skills. 
-  
+Experienced Full Stack Software Engineer who specializes in JavaScript and Python with strong communication and collaborative skills! Obtained a background and degree in economics from Binghamton University and furthered my education by attending FlatIron School's Software Engineering Program.
   
 ## Get in Touch :mailbox:
 
